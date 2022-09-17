@@ -10,4 +10,3 @@
 - Added a DevTool toggleable setting (Instead of relying on the developer discord id)
 - Removed Cryptocurrency links (I don't support crypto)
 
-

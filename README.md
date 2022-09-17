@@ -1,6 +1,6 @@
 # ShowHiddenChannels
 <p align="left">
-    <b>Simple plugin ShowHiddenChannels.</b><br>
+    <b>Simple plugin ShowHiddenChannels for BetterDiscord.</b><br>
     A plugin which displays all hidden Channels, which can't be accessed due to Role Restrictions, this won't allow you to read them (impossible)
 </p>
 
